@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: papyrus;
+    font-size: 30px;
+    font-weight: bold;
+}
+.Header ul{
+    margin-right:60px;
+}
+.Header li{
+    display:block;
+    float:right;
+    padding:10px 10px;
+    width:150px;
+    height:auto;
+    text-align:center;
+}
+.Header li:hover{
+    background-color:green;
+}
+.Header a{
+    text-decoration: none;
+}
+.Header{
+    margin-top:0px;
+    background-color: black;
+}
+.Header h1{
+    color:white;
+    padding:0px 70px;
+}
+.aboutme{
+    font-size:50%;
+    margin:50px 100px;
+    width:80%;
+    margin-top:20px;
+    border:1px solid black;
+    border-radius:10px;
+    padding:20px;
+}
+.bggrey{
+    font-size:130%;
+    height:562px;
+    width:60%;
+    display:block;
+    float:left;
+}
+.bggrey h1{
+    font-size:150%;
+    padding-top:50px;
+    padding-left:120px;
+    padding-bottom:0px;
+}
+.img{
+    margin-right:50px;
+    display:block;
+    float:right;
+    width:600px;
+    height:500px;
+}
+.bggrey1{
+    background-color: rgb(255, 255, 255);
+    width:100%;
+    height:auto;
+}
