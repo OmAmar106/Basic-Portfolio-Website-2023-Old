@@ -5,6 +5,9 @@
     font-size: 30px;
     font-weight: bold;
 }
+a{
+    color:blue;
+}
 .Header ul{
     margin-right:60px;
 }
@@ -31,7 +34,7 @@
     color:white;
     padding:0px 70px;
 }
-.aboutme{
+.aboutme,.content{
     font-size:50%;
     margin:50px 100px;
     width:135%;
@@ -41,8 +44,12 @@
     padding:20px;
     box-shadow: 0px 1px 10px 10px;
 }
-.aboutme:hover{
+.aboutme:hover,.content:hover{
     background-color: rgba(194, 17, 17, 0.3);
+}
+.content{
+    width:80%;
+    margin-left:1%;
 }
 .bggrey{
     font-size:130%;
@@ -91,7 +98,7 @@
     width:20%;
     margin-top:1%;
 }
-.cc{
+.cc,.cc1{
     font-size:30%;
     margin-top:-9%;
     margin-left:45%;
@@ -102,7 +109,11 @@
     box-shadow: 0px 1px 10px 10px;
     float:left;
 }
-.cc:hover{
+.cc1{
+    width:50%;
+    margin-top:-17%;
+}
+.cc:hover,.cc1:hover{
     background-color: rgba(194, 17, 17, 0.3);
 }
 .cphr{
@@ -118,4 +129,21 @@
     border: 1px solid black;
     box-shadow: 1px 1px 1px 1px;
     border-radius: 80px;
+}
+.footer{
+    background-color:grey;
+    text-align:center;
+    height:50px;
+}
+.contact{
+    margin:5% 5%;
+}
+.contact1{
+    background-color: rgb(221, 211, 211);
+}
+.mar{
+    margin-left:10%;
+}
+.mar h1{
+    font-size:150%;
 }
