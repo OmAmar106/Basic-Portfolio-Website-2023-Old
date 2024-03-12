@@ -1,3 +1,6 @@
 # Portfolio Website
-Making a Portfolio Website (In Progress)
-This is to practice CSS
+
+Made a Portfolio Website using basic HTML and CSS.
+
+Deployment Link : https://omamar.netlify.app/
+
